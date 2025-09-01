@@ -1,0 +1,6 @@
+[submodule "severstal-backend"]
+	path = severstal-backend
+	url = https://github.com/Stepan-director/severstal-backend.git
+[submodule "video-stream"]
+	path = video-stream
+	url = https://github.com/Stepan-director/video-stream.git
